@@ -1,2 +1,2 @@
 # js
-javascript tutorial
+javascript tutorial notes and mini projects
